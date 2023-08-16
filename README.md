@@ -1,4 +1,4 @@
-# Ejercicio en clase ItI 1312-2023
+# Ejercicio en clase
 
 # Cómo correr los apis localmente?
 
