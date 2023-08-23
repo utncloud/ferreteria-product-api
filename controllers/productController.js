@@ -30,6 +30,16 @@ const products =  [
         "description":"",
         "starRating": 3.2,
         "imageUrl":"assets/images/drill.jpg"
+    },
+    {
+        "productId":8,
+        "productName": "Screwdriver",
+        "productCode": "SCWD-077",
+        "releaseDate": "Oct 3rd, 2021",
+        "price": 32.9,
+        "description":"",
+        "starRating": 4.2,
+        "imageUrl":""
     }
 ];
 
